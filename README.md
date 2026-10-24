@@ -85,6 +85,20 @@
 
 以下为提供的测速图片，可结合自己的运营商、节点地区与使用时段参考，不代表所有网络下的固定表现。
 
+来源为页面已有历史截图，未重新测试。测速图时间为 **2026-08-06 19:35:23（CST）**，工具为 MAI-TEST-BOT 2.0.1-dev，后端标注**河南联通 1Gbps（4.7.3）**，使用 32 线程、Ping 3 次，整轮耗时 267 秒，按 RTT 降序排列。具体测试设备与下载目标未记录。
+
+| 节点（原名） | RTT | HTTP 延迟 | 平均速度（原标） | 最高速度（原标） | UDP 类型 |
+| --- | --- | --- | --- | --- | --- |
+| United States 05 | 225ms | 572ms | 89.80MB | 132.06MB | FullCone |
+| Hong Kong 01 | 170ms | 185ms | 127.61MB | 169.64MB | FullCone |
+| Singapore 06 | 143ms | 147ms | 80.61MB | 118.69MB | Unknown |
+| Taiwan 06 | 139ms | 142ms | 74.96MB | 116.26MB | Unknown |
+| Japan 01 | 107ms | 118ms | 109.68MB | 122.90MB | FullCone |
+
+平均/最高速度按截图原标保留 **MB、KB 或 B**，没有换写成 Mbps；原图未明确写出的单位细节不作补推。摘录只覆盖上述代表行，不代表全体节点或当前网络表现。
+
+Singapore 06 和 Taiwan 06 的 UDP 为 Unknown，仍保留各自的下载结果；未知 NAT 类型不等于测速成功或失败的总判断。
+
 ![云图机场(YunTu) 节点测速图](https://i.eoht.net/airport/yuntu_speed.webp)
 
 <a id="yuntu-unlock-test"></a>
@@ -92,6 +106,17 @@
 ## 云图机场(YunTu)VPN流媒体与 AI 解锁图
 
 以下为提供的解锁检测图片。平台的地区识别与访问策略可能变化，实际可用范围应结合当前节点测试。
+
+解锁图记录 **2026-08-06 19:32:33（CST）**，MAI-TEST-BOT 2.0.1-dev，后端同为河南联通 1Gbps，但使用 8 线程、Ping 3 次，整轮耗时 16 秒。以下为历史检测摘录，状态按原图保留：
+
+| 节点（原名） | RTT / HTTP 延迟 | Netflix | Disney+ | TikTok | OpenAI |
+| --- | --- | --- | --- | --- | --- |
+| United States 05 | 218ms / 249ms | 解锁(US) | 解锁(US) | 解锁(US) | 解锁(US) |
+| Hong Kong 01 | 146ms / 203ms | 解锁(HK) | 解锁(HK) | 解锁(ALISG) | 仅APP(HK) |
+| Singapore 01 | 182ms / 294ms | 解锁(SG) | 失败 | 失败 | 解锁(SG) |
+| Japan 01 | 186ms / 255ms | 解锁(JP) | 解锁(JP) | 失败 | 解锁(JP) |
+
+图中 Spotify 列为“禁止注册”，不能改写成完整可用；OpenAI 的“仅APP”也不同于网页和应用全部可用。脚本检测不等于已完成登录、付费播放或长期稳定性测试。
 
 ![云图机场(YunTu) 流媒体与 AI 解锁检测图](https://i.eoht.net/airport/yuntu_test.webp)
 
