@@ -1,12 +1,12 @@
 <a id="yuntu-vpn-review"></a>
 
-# 云图机场(YunTu)VPN官网入口｜88 折优惠码｜套餐与测速图
+# 云图机场(YunTu)VPN官网入口｜套餐价格与测速图
 
 ![云图机场(YunTu)](https://i.eoht.net/airport/yuntu_logo.webp)
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/yuntu) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-云图机场（YunTu）月付从 **¥20、150GB/月**起，提供 **150GB、300GB、600GB** 周期套餐，以及 **¥78/50GB、¥119/100GB** 一次性不限时流量包。支持**通用订阅**，全节点 **1 倍率**，最多 **5 台设备同时在线**；开业优惠码 **`yt88` 可享全场套餐 88 折**。
+云图机场（YunTu）月付从 **¥20、150GB/月**起，提供 **150GB、300GB、600GB** 周期套餐，以及 **¥78/50GB、¥119/100GB** 一次性不限时流量包。支持**通用订阅**，全节点 **1 倍率**，最多 **5 台设备同时在线**。
 
 > [!NOTE]
 > **30 秒看懂云图机场(YunTu)**
@@ -16,21 +16,21 @@
 > - **不限时流量包**：50GB 为 ¥78，100GB 为 ¥119，均为一次性付款。
 > - **线路与倍率**：服务商主打专线传输与三网优化；全节点 1 倍率。
 > - **订阅与设备**：支持通用订阅，最多 5 台设备同时在线。
-> - **支付与优惠**：支付宝、微信支付、USDT；全场 88 折优惠码 `yt88`。
+> - **支付方式**：支付宝、微信支付、USDT。
 > - **售后规则**：套餐说明标注售出后不提供退款，工单承诺 24 小时内回复。
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/yuntu#yuntu-vpn-plans) · [查看测速、解锁与拓扑图](https://eoht.net/serve/airport/yuntu#yuntu-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> [查看套餐价格](https://eoht.net/serve/airport/yuntu#yuntu-vpn-plans) · [查看测速、解锁与拓扑图](https://eoht.net/serve/airport/yuntu#yuntu-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
 
 <a id="yuntu-official-website"></a>
 
 ## 云图机场(YunTu)VPN官网与推广注册入口
 
-**月付最低 ¥20、150GB/月；年付 ¥240、150GB/月，折合 ¥20/月。全场 88 折优惠码 `yt88`，另有不限时流量包。**
+**月付最低 ¥20、150GB/月；年付 ¥240、150GB/月，折合 ¥20/月。另有不限时流量包。**
 
 [查看云图机场套餐](https://eoht.net/serve/airport/yuntu)
 
-本页整理云图机场(YunTu)的推广注册入口、周期套餐、不限时流量包、开业优惠与测速资料，价格及服务范围以当前购买页为准。
+本页整理云图机场(YunTu)的推广注册入口、周期套餐、不限时流量包与测速资料，价格及服务范围以当前购买页为准。
 
 <a id="yuntu-airport-overview"></a>
 
@@ -47,15 +47,12 @@
 
 <a id="yuntu-vpn-plans"></a>
 
-## 云图机场(YunTu)VPN套餐价格与开业优惠
+## 云图机场(YunTu)VPN套餐价格与计费说明
 
 > [!TIP]
-> **开业优惠与价格说明**
+> **价格说明**
 >
-> - **优惠码**：`yt88`，**全场套餐享 88 折**。
-> - **活动期限**：公告标注截至 **2026 年 11 月 4 日**。
-> - **使用方式**：结账时输入优惠码，核对折扣与最终付款金额；与其他活动的叠加情况以结算页为准。
-> - 下表为**套餐标价**，未扣除优惠码折扣；月付、季付和年付价格均为对应周期的付款总额。
+> 下表为**套餐标价**；月付、季付和年付价格均为对应周期的付款总额，实际支付金额以购买页为准。
 >
 
 **支付方式** 支付宝 微信支付 USDT
@@ -140,9 +137,9 @@ Singapore 06 和 Taiwan 06 的 UDP 为 Unknown，仍保留各自的下载结果�
 
 <a id="yuntu-coupon-rules"></a>
 
-### yt88 优惠码适用于哪些套餐？
+### 购买套餐时如何核对价格？
 
-`yt88` 为开业优惠码，全场套餐享 88 折，公告标注截至 2026 年 11 月 4 日。付款前输入优惠码并核对是否生效，与其他活动的叠加情况以结算页为准。
+购买前核对套餐名称、付款周期、流量额度与最终实付金额；年付价格为一次支付全年的总额，不是月付金额。
 
 <a id="yuntu-device-and-refund-rules"></a>
 
