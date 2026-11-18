@@ -6,21 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/yuntu) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-云图机场（YunTu）月付从 **¥20、150GB/月**起，提供 **150GB、300GB、600GB** 周期套餐，以及 **¥78/50GB、¥119/100GB** 一次性不限时流量包。支持**通用订阅**，全节点 **1 倍率**，最多 **5 台设备同时在线**。
-
 > [!NOTE]
 > **30 秒看懂云图机场(YunTu)**
 >
-> - **月付起步**：岚图 ¥20/月、150GB/月。
-> - **最低年付**：岚图 ¥240/年、150GB/月，折合 ¥20/月，需一次支付全年费用。
-> - **不限时流量包**：50GB 为 ¥78，100GB 为 ¥119，均为一次性付款。
-> - **线路与倍率**：服务商主打专线传输与三网优化；全节点 1 倍率。
-> - **订阅与设备**：支持通用订阅，最多 5 台设备同时在线。
-> - **支付方式**：支付宝、微信支付、USDT。
-> - **售后规则**：套餐说明标注售出后不提供退款，工单承诺 24 小时内回复。
+> [访问官网](https://eoht.net/serve/airport/yuntu) · [查看套餐价格](https://eoht.net/serve/airport/yuntu#yuntu-vpn-plans) · [查看测速、解锁与拓扑图](https://eoht.net/serve/airport/yuntu#yuntu-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐价格](https://eoht.net/serve/airport/yuntu#yuntu-vpn-plans) · [查看测速、解锁与拓扑图](https://eoht.net/serve/airport/yuntu#yuntu-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：岚图 ¥20/月、150GB/月；低频备用另有一次性 ¥78/50GB、¥119/100GB 的不限时总流量包，不按月刷新。
+> - **线路与使用**：服务商主打专线传输与三网优化，全节点 1 倍率；通用订阅可导入兼容客户端，周期套餐与流量包均最多 5 台设备同时在线。
+> - **售后与限制**：套餐说明标注**售出后不提供退款**，工单承诺 24 小时内回复；禁止公开或分享订阅链接、BT/P2P 下载。
 >
+
+云图机场（YunTu）月付从 **¥20、150GB/月**起，提供 **150GB、300GB、600GB** 周期套餐，以及 **¥78/50GB、¥119/100GB** 一次性不限时流量包。支持**通用订阅**，全节点 **1 倍率**，最多 **5 台设备同时在线**。
 
 <a id="yuntu-official-website"></a>
 
